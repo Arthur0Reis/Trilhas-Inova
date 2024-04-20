@@ -1,5 +1,5 @@
 body{
-   background-image: url(./imgs/fotodacidade.png);
+   background-image: url('https://imgur.com/mONTIBS');
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -44,7 +44,7 @@ h1 {
 }
 
 #uploaddocs button[type="button"] {
-    background-image: url(./imgs/File\ upload\ item\ base.png);
+    background-image: url('https://imgur.com/yOgrJNI');
     height: 65px;
     width: 205px;
     background-size: cover;
@@ -93,25 +93,8 @@ h1 {
 }
 
 
-@-webkit-keyframes AnimationName {
-    0%{background-position:66% 0%}
-    50%{background-position:35% 100%}
-    100%{background-position:66% 0%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:66% 0%}
-    50%{background-position:35% 100%}
-    100%{background-position:66% 0%}
-}
-@keyframes AnimationName {
-    0%{background-position:66% 0%}
-    50%{background-position:35% 100%}
-    100%{background-position:66% 0%}
-}
-
-
 .logoinova {
-    background-image: url(./imgs/logoinova.png);
+    background-image: url('https://imgur.com/XdIPnjS');
     width: 700px;
     height: 550px;
     background-size: contain;
