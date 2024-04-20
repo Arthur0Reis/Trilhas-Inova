@@ -1,5 +1,5 @@
 body{
-   background-image: url('https://i.imgur.com/mONTIBS.png');
+   background-image: url(https://i.imgur.com/mONTIBS.png);
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -44,7 +44,7 @@ h1 {
 }
 
 #uploaddocs button[type="button"] {
-    background-image: url('https://i.imgur.com/yOgrJNI.png');
+    background-image: url(https://i.imgur.com/yOgrJNI.png);
     height: 65px;
     width: 205px;
     background-size: cover;
@@ -94,7 +94,7 @@ h1 {
 
 
 .logoinova {
-    background-image: url('https://i.imgur.com/XdIPnjS.png');
+    background-image: url(https://i.imgur.com/XdIPnjS.png);
     width: 700px;
     height: 550px;
     background-size: contain;
