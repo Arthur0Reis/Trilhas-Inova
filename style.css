@@ -1,5 +1,5 @@
 body{
-   background-image: url(./imgs/fotodacidade.png);
+   background-image: url(./img/fotodacidade.png);
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -44,7 +44,7 @@ h1 {
 }
 
 #uploaddocs button[type="button"] {
-    background-image: url(./imgs/File\ upload\ item\ base.png);
+    background-image: url(./img/File\ upload\ item\ base.png);
     height: 65px;
     width: 205px;
     background-size: cover;
@@ -111,7 +111,7 @@ h1 {
 
 
 .logoinova {
-    background-image: url(./imgs/logoinova.png);
+    background-image: url(./img/logoinova.png);
     width: 700px;
     height: 550px;
     background-size: contain;
