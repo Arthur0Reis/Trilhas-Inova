@@ -1,0 +1,95 @@
+body{
+   background-image: url(./imgs/Untitled\ design\ \(4\).png);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+#container {
+    width: 528px;
+    height: 580px;
+    top: 75px;
+    left: 131px;
+    position: fixed;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.18);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+#formulario input[type="email"] {
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    height: 38px;
+    width: 450px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+
+h1 {
+    color: #FFFFFF;
+    margin-bottom: 6px;
+    margin-top: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+#uploadbotao button[type="button"] {
+    background-image: url(./imgs/File\ upload\ item\ base.png);
+    height: 65px;
+    width: 205px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 6px;
+}
+
+
+#envio {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#enviar {
+    color: white;
+    background-color: green;
+    border-color: green;
+}
+
+
+#nenviar {
+    color: white;
+    border-color: red;
+   background-color: red;
+}
+
+#envio button[type="button2"] {
+    height: 45px;
+    width: 255px;
+    border-radius: 8px;
+    margin-top: 35px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 6px;
+    text-align: center;
+    border-width: 1px;
+}
+
+.frase{
+    color: #FFFFFF;
+    
+}
